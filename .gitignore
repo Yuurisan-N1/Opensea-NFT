@@ -7,4 +7,4 @@ Thumbs.db
 .github/workflows/build.yml
 src/engine/sniper.rs
 src/protocols/opensea/seadrop.rs
-src/protocols/opensea/stage.rs
+src/protocols/opensea/stage.rsdata.txt
