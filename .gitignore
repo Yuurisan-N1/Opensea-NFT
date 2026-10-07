@@ -1,0 +1,10 @@
+/target/
+.env
+*.env
+.vscode/
+.DS_Store
+Thumbs.db
+.github/workflows/build.yml
+src/engine/sniper.rs
+src/protocol/opensea/seadrop.rs
+src/protocol/opensea/stage.rs

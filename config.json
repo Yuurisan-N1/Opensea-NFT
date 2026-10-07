@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "quantity": 1,
+    "max_price_native": 0.05,
+    "max_price_per_chain": {
+      "ethereum": 0.02,
+      "base": 0.001,
+      "robinhood": 0.05,
+      "arc_usdc": 0.05
+    },
+    "gas": {
+      "priority_gwei": 10,
+      "max_gwei": 80
+    },
+    "rpc_fanout": 4,
+    "fire_window_ms": 3000,
+    "fire_interval_ms": 15
+  }
+}
